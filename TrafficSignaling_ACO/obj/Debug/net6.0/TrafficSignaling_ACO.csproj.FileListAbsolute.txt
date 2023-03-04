@@ -1,0 +1,15 @@
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\obj\Debug\net6.0\TrafficSignaling_ACO.csproj.AssemblyReference.cache
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\obj\Debug\net6.0\TrafficSignaling_ACO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\obj\Debug\net6.0\TrafficSignaling_ACO.AssemblyInfoInputs.cache
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\obj\Debug\net6.0\TrafficSignaling_ACO.AssemblyInfo.cs
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\obj\Debug\net6.0\TrafficSignaling_ACO.csproj.CoreCompileInputs.cache
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\bin\Debug\net6.0\TrafficSignaling_ACO.exe
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\bin\Debug\net6.0\TrafficSignaling_ACO.deps.json
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\bin\Debug\net6.0\TrafficSignaling_ACO.runtimeconfig.json
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\bin\Debug\net6.0\TrafficSignaling_ACO.dll
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\bin\Debug\net6.0\ref\TrafficSignaling_ACO.dll
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\bin\Debug\net6.0\TrafficSignaling_ACO.pdb
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\obj\Debug\net6.0\TrafficSignaling_ACO.dll
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\obj\Debug\net6.0\ref\TrafficSignaling_ACO.dll
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\obj\Debug\net6.0\TrafficSignaling_ACO.pdb
+C:\Users\fatba\OneDrive\Desktop\FIEK\Semestri i dytë\Nature Inspired Algorithms\TrafficSignaling_ACO\TrafficSignaling_ACO\obj\Debug\net6.0\TrafficSignaling_ACO.genruntimeconfig.cache
