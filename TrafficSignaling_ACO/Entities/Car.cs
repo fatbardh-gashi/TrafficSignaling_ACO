@@ -8,7 +8,8 @@ namespace TrafficSignaling_ACO.Entities
 {
     public class Car
     {
-        public List<Street> Path { get; set; }
-        public int TimeToDestination { get; set; }
+        public int NumStreets { get; set; }
+        public List<string> Path { get; set; }
+        public Intersection StartIntersection;
     }
 }
